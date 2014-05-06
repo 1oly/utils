@@ -1,4 +1,4 @@
 utils
 =====
 
-Various utility functions for [Julia](julialang.org)
+Various utility functions for [Julia](http://julialang.org)
